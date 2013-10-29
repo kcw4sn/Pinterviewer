@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pinterviewer</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="usernameStaticString">Username</string>
+    <string name="passwordStaticString">Password</string>
+    <string name="loginStaticString">Login</string>
+    <string name="createAccountStaticString">Create Account</string>
+    <string name="welcomeMessage">Welcome to Pinterviewer!</string>
+
+</resources>
