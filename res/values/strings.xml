@@ -8,5 +8,6 @@
     <string name="loginStaticString">Login</string>
     <string name="createAccountStaticString">Create Account</string>
     <string name="welcomeMessage">Welcome to Pinterviewer!</string>
+    <string name="outputLabel"/>
 
 </resources>
